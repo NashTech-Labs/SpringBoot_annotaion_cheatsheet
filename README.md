@@ -1,4 +1,3 @@
-# annotations-cheatsheet
 
 # Spring, Spring Boot Annotations Cheat sheet
 
